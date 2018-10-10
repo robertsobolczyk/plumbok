@@ -13,7 +13,7 @@
     "php": "^7.1",
     "doctrine/annotations": "1.*",
     "phpdocumentor/reflection-docblock": "^4.3",
-    "symfony/console": "^4.0",
+    "symfony/console": "3.4.17",
     "nikic/php-parser": "4.*",
     "doctrine/inflector": "^1.3"
   },
